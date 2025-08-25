@@ -1,5 +1,5 @@
 # 💫 About Me:
-An "AI Engineer" working on training machine learning or deep learning models<br>for improving cybersecurity.
+An "AI Engineer" working on training machine learning or deep learning models for improving cybersecurity.
 
 
 ## 🌐 Socials:

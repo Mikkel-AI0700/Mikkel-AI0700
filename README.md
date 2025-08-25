@@ -1,6 +1,15 @@
 # 💫 About Me:
 An "AI Engineer" working on training machine learning or deep learning models for improving cybersecurity and a caffeine junkie!
 
+### 💻 What I'm Working On
+
+* **Machine Learning Models:** Currently training machine learning models to classify malicious activity
+* **Deep Learning Solutions:** Currently training a Feed-Forward model for malware classification
+
+  ### ⚡ Fun Fact
+
+I'm a caffeine junkie. Americano coffee taste good when its very bitter!
+
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/mikkel_rz/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sebastien-mikkel-razon/)

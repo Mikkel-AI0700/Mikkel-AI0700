@@ -1,10 +1,10 @@
 # 💫 About Me:
-An "AI Engineer" working on training machine learning or deep learning models for improving cybersecurity and a caffeine junkie!
+An "ML Engineer" working on training machine learning or deep learning models for improving cybersecurity and a caffeine junkie!
 
 ### 💻 What I'm Working On/What I've worked on
 
-* **Machine Learning Models:** Trained DecisionTreeClassifier, RandomForestClassifier, and SGDClassifiers for malicious activity classification
-* **Deep Learning Solutions:** Currently training a Feed-Forward model for malware classification
+* **Machine Learning Models:** Trained DecisionTreeClassifier, RandomForestClassifier, SGDClassifiers for malicious activity classification, and re-writing ML algorithms
+* **Deep Learning Solutions:** Stay tuned. About to recreate Neural Networks from scratch 😉
 
   ### ⚡ Fun Fact
 

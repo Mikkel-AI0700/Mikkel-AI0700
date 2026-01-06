@@ -8,7 +8,7 @@ An "ML Engineer" working on training machine learning or deep learning models fo
 
   ### Fun Fact
 
-I'm a caffeine junkie. Americano coffee taste good when its very bitter!
+COFFEE!!! Americano coffee taste good when its very bitter!
 
 
 ## Socials:

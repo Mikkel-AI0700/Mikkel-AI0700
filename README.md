@@ -1,5 +1,5 @@
 # About Me:
-An "ML Engineer" working on training machine learning or deep learning models for improving cybersecurity and a caffeine junkie!
+An "ML Engineer" working on training machine learning or deep learning models for improving cybersecurity. COFFEE!!!
 
 ### 💻 What I'm Working On/What I've worked on
 

@@ -6,11 +6,6 @@ An "ML Engineer" working on training machine learning or deep learning models fo
 * **Machine Learning Models:** Trained DecisionTreeClassifier, RandomForestClassifier, SGDClassifiers for malicious activity classification, and re-writing ML algorithms
 * **Deep Learning Solutions:** Stay tuned. About to recreate Neural Networks from scratch 😉
 
-  ### Fun Fact
-
-COFFEE!!! Americano coffee taste good when its very bitter!
-
-
 ## Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/mikkel_rz/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sebastien-mikkel-razon/)
 
